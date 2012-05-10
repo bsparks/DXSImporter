@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeledSceneImporter", "DeledSceneImporter\DeledSceneImporter.csproj", "{AAA754AF-A77F-4EA8-B1A0-14180ECC6844}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleDemo", "DeleDemo\DeleDemo\DeleDemo.csproj", "{94447D90-DF69-4E1B-8E54-CE8BDF425BC5}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "DeleDemoContent", "DeleDemo\DeleDemoContent\DeleDemoContent.contentproj", "{A48D706A-DC28-4282-ABBB-AF89E2D8FF40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoSceneProcessor", "DemoSceneProcessor\DemoSceneProcessor.csproj", "{A06D5C61-2AD6-4960-A610-F5A0891E85FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAA754AF-A77F-4EA8-B1A0-14180ECC6844}.Debug|x86.ActiveCfg = Debug|x86
+		{AAA754AF-A77F-4EA8-B1A0-14180ECC6844}.Debug|x86.Build.0 = Debug|x86
+		{AAA754AF-A77F-4EA8-B1A0-14180ECC6844}.Release|x86.ActiveCfg = Release|x86
+		{AAA754AF-A77F-4EA8-B1A0-14180ECC6844}.Release|x86.Build.0 = Release|x86
+		{94447D90-DF69-4E1B-8E54-CE8BDF425BC5}.Debug|x86.ActiveCfg = Debug|x86
+		{94447D90-DF69-4E1B-8E54-CE8BDF425BC5}.Debug|x86.Build.0 = Debug|x86
+		{94447D90-DF69-4E1B-8E54-CE8BDF425BC5}.Release|x86.ActiveCfg = Release|x86
+		{94447D90-DF69-4E1B-8E54-CE8BDF425BC5}.Release|x86.Build.0 = Release|x86
+		{A48D706A-DC28-4282-ABBB-AF89E2D8FF40}.Debug|x86.ActiveCfg = Debug|x86
+		{A48D706A-DC28-4282-ABBB-AF89E2D8FF40}.Release|x86.ActiveCfg = Release|x86
+		{A06D5C61-2AD6-4960-A610-F5A0891E85FD}.Debug|x86.ActiveCfg = Debug|x86
+		{A06D5C61-2AD6-4960-A610-F5A0891E85FD}.Debug|x86.Build.0 = Debug|x86
+		{A06D5C61-2AD6-4960-A610-F5A0891E85FD}.Release|x86.ActiveCfg = Release|x86
+		{A06D5C61-2AD6-4960-A610-F5A0891E85FD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
